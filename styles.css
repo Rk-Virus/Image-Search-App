@@ -132,4 +132,8 @@ footer {
         margin: 5px 0;
         height: auto;
     } */
+
+    main{
+        padding: 20px 5px;
+    }
 }
